@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-title {
+  color: orange;
+}
+
+.list-unordered {
+  color: red;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.list-ordered {
+  color: green;
+  font-size: 23px;
+}
